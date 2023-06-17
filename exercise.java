@@ -1,4 +1,4 @@
-public class exercise1{
+public class exercise{
     public static void main(String[] args){
         //Lisa is cooking muffins. The recipe calls for 7 cups of sugar. 
         //She has already put in 2 cups. 
